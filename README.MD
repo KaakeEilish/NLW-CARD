@@ -1,4 +1,4 @@
-# NLW COPA
+# NLW CARD
 
 ![preview](./.github/preview.png)
 
